@@ -173,7 +173,7 @@ function Calculator() {
                 className="bg-orange-300 shadow-md rounded-lg w-12 h-12 text-center text-black font-medium flex justify-center items-center outline-none"
               />
             </div>
-            <div className="card text-bg-info mb-3 m-4" style={{maxWidth: "18rem"}}>
+            <div className="card text-bg-dark  mb-3 m-4" style={{maxWidth: "18rem"}}>
         <div className="card-body">
           <h5 className="card-title">History</h5>
           <p className="card-text d-flex ">
